@@ -1,0 +1,2 @@
+# coconet
+Counterpoint by convolution
